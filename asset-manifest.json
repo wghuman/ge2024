@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ge2024app/static/css/main.4fff2fbb.css",
-    "main.js": "/ge2024app/static/js/main.94867415.js",
-    "static/js/787.903c72c5.chunk.js": "/ge2024app/static/js/787.903c72c5.chunk.js",
-    "index.html": "/ge2024app/index.html",
-    "main.4fff2fbb.css.map": "/ge2024app/static/css/main.4fff2fbb.css.map",
-    "main.94867415.js.map": "/ge2024app/static/js/main.94867415.js.map",
-    "787.903c72c5.chunk.js.map": "/ge2024app/static/js/787.903c72c5.chunk.js.map"
+    "main.css": "/ge2024/static/css/main.4fff2fbb.css",
+    "main.js": "/ge2024/static/js/main.70df9817.js",
+    "static/js/787.903c72c5.chunk.js": "/ge2024/static/js/787.903c72c5.chunk.js",
+    "index.html": "/ge2024/index.html",
+    "main.4fff2fbb.css.map": "/ge2024/static/css/main.4fff2fbb.css.map",
+    "main.70df9817.js.map": "/ge2024/static/js/main.70df9817.js.map",
+    "787.903c72c5.chunk.js.map": "/ge2024/static/js/787.903c72c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fff2fbb.css",
-    "static/js/main.94867415.js"
+    "static/js/main.70df9817.js"
   ]
 }
